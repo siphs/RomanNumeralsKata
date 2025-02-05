@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RomanNumerals")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14c80cca156f319a90ddfcfed900df3e1a3ab4c5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89a1594789d78e46547b9f47841815b300685f93")]
 [assembly: System.Reflection.AssemblyProductAttribute("RomanNumerals")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RomanNumerals")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
